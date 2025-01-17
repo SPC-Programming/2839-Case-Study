@@ -1,0 +1,339 @@
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.exe
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Humanizer.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Runtime.Caching.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Security.Permissions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\System.Windows.Extensions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-5ipweew5fc.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-6b9nfc4n3r.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\vh93fmaq7t-agp80tu62r.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\w8c0341wo0-st1cbwfwo5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xm0k7580y4-unj9p35syc.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u48sojoo14-5vj65cig9w.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g8b8eass2m-q2ku51ktnl.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\p2db065m8l-2q4vfeazbq.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8pqpm3rnv2-n1oizzvkh6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u8eu1bo2su-o371a8zbv2.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\nocxptlhdc-7na4sro3qu.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0hksy0jt0h-jeal3x0ldm.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\7fip3qmifx-f8imaxxbri.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\mu1xnh64dk-okkk44j0xs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\ge9t3k9irt-0wve5yxp74.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\el4iwbe9z0-cwzlr5n8x4.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4u20u59qi9-npxfuf8dg6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\2gdcie2fge-wmug9u23qg.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giimfee42s-tey0rigmnh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\fchh72mc0i-j75batdsum.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0rh0inv82e-16095smhkz.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8451taez2s-vy0bq9ydhf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\hbxpugz364-b4skse8du6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\e90m0vsynv-ab1c3rmv7g.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\s1gjafnmsm-u3xrusw2ol.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\bqyi31xy02-56d2bn4wt9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rm912r4jik-mpyigms19s.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cgicxetgtn-73kdqttayv.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\lmc0b5zyp2-bpk8xqwxhs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uen73dgytq-8inm30yfxf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\93fbqi03fh-ve6x09088i.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qnz6udnti8-4gxs3k148c.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cb3yygmibj-9b9oa1qrmt.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\y5waguf6y9-fctod5rc9n.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giq4b2lk89-l2av4jpuoj.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rad1kozhq2-kbynt5jhd9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\jg5q0wyrm7-25iw1kog22.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\m11z9fxpba-c2nslu3uf3.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\q0u4lqh7cl-m39kt2b5c9.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\z1y7jjpc1v-2lgwfvgpvi.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qxknvy7zv6-um2aeqy4ik.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g6z8msduyu-wsezl0heh6.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0q1rbntfu4-o4kw7cc6tf.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cpug0x7vcj-6ukhryfubh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\h3w4btkb3b-zwph15dxgs.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4zabob9xan-u33ctipx7g.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8gzwyqkcp0-0td7jq9nxb.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xl53hmffwf-zsyoy62yqm.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\yyntliwzb6-wqejeusuyq.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\5qwpz72bwz-wus95c49fh.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\3bq3qy3naa-sjab29p8z5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rragtsghlc-jdpnbaa6vo.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\70f9ur41il-59qolqi738.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\1suqtkm9gm-x0q3zqp4vz.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8l4490pygu-vwa26bmbsk.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\efzv23q0ln-5trh6b1mit.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u127t6yjjf-dsw5v3fbc5.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\compressed\x5pebnoo7x-afgyafcsqt.gz
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+c:\Users\vernon.james\Documents\OneDrive\OneDrive - St. Petersburg College\_content\COP2839\mvc2_instructors\aspnet_core_mvc\instructors\case_study\case_study_start\SportsPro\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.Development.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\appsettings.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.runtime.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.staticwebassets.endpoints.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.exe
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.deps.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.runtimeconfig.json
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SportsPro.pdb
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Humanizer.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\Mono.TextTemplating.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.CodeDom.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Convention.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Hosting.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.Runtime.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Composition.TypedParts.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\System.Text.Json.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.AssemblyReference.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfoInputs.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.AssemblyInfo.cs
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.CoreCompileInputs.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.RazorAssemblyInfo.cs
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\scopedcss\bundle\SportsPro.styles.css
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uxyyatz4lh-5ipweew5fc.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cyh45adkgi-61n19gt1b8.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rzluhnc8bp-6b9nfc4n3r.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\vh93fmaq7t-agp80tu62r.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\w8c0341wo0-st1cbwfwo5.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xm0k7580y4-unj9p35syc.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u48sojoo14-5vj65cig9w.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g8b8eass2m-q2ku51ktnl.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\p2db065m8l-2q4vfeazbq.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8pqpm3rnv2-n1oizzvkh6.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u8eu1bo2su-o371a8zbv2.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\nocxptlhdc-7na4sro3qu.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0hksy0jt0h-jeal3x0ldm.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\7fip3qmifx-f8imaxxbri.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\mu1xnh64dk-okkk44j0xs.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\ge9t3k9irt-0wve5yxp74.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\el4iwbe9z0-cwzlr5n8x4.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4u20u59qi9-npxfuf8dg6.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\2gdcie2fge-wmug9u23qg.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giimfee42s-tey0rigmnh.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\fchh72mc0i-j75batdsum.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0rh0inv82e-16095smhkz.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8451taez2s-vy0bq9ydhf.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\hbxpugz364-b4skse8du6.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\e90m0vsynv-ab1c3rmv7g.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\s1gjafnmsm-u3xrusw2ol.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\bqyi31xy02-56d2bn4wt9.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rm912r4jik-mpyigms19s.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cgicxetgtn-73kdqttayv.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\lmc0b5zyp2-bpk8xqwxhs.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\uen73dgytq-8inm30yfxf.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\93fbqi03fh-ve6x09088i.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qnz6udnti8-4gxs3k148c.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cb3yygmibj-9b9oa1qrmt.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\y5waguf6y9-fctod5rc9n.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\giq4b2lk89-l2av4jpuoj.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rad1kozhq2-kbynt5jhd9.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\jg5q0wyrm7-25iw1kog22.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\m11z9fxpba-c2nslu3uf3.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\q0u4lqh7cl-m39kt2b5c9.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\z1y7jjpc1v-2lgwfvgpvi.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\qxknvy7zv6-um2aeqy4ik.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\g6z8msduyu-wsezl0heh6.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\0q1rbntfu4-o4kw7cc6tf.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\cpug0x7vcj-6ukhryfubh.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\h3w4btkb3b-zwph15dxgs.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\4zabob9xan-u33ctipx7g.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8gzwyqkcp0-0td7jq9nxb.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\xl53hmffwf-zsyoy62yqm.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\yyntliwzb6-wqejeusuyq.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\5qwpz72bwz-wus95c49fh.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\3bq3qy3naa-sjab29p8z5.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\rragtsghlc-jdpnbaa6vo.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\70f9ur41il-59qolqi738.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\1suqtkm9gm-x0q3zqp4vz.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\8l4490pygu-vwa26bmbsk.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\efzv23q0ln-5trh6b1mit.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\u127t6yjjf-dsw5v3fbc5.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\compressed\x5pebnoo7x-afgyafcsqt.gz
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.development.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.build.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\staticwebassets.pack.json
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.csproj.Up2Date
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\refint\SportsPro.dll
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.pdb
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\SportsPro.genruntimeconfig.cache
+J:\2839-code-examples\SportsPro\SportsPro\obj\Debug\net9.0\ref\SportsPro.dll
