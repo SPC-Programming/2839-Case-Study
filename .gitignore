@@ -1,9 +1,4 @@
 SportsPro.sln
-/bin
-/obj
-SportsPro/obj/Debug/net9.0/SportsPro.assets.cache
+SportsPro/bin
+SportsPro/obj
 
-SportsPro/obj/Debug/net9.0/SportsPro.AssemblyInfoInputs.cache
-
-SportsPro/obj/Debug/net9.0/SportsPro.AssemblyInfo.cs
-SportsPro/obj/Debug/net9.0/SportsPro.GeneratedMSBuildEditorConfig.editorconfig
