@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj": {}
+    "j:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj": {}
   },
   "projects": {
-    "J:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj": {
+    "j:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj",
+        "projectUniqueName": "j:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj",
         "projectName": "SportsPro",
-        "projectPath": "J:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj",
+        "projectPath": "j:\\2839-code-examples\\SportsPro\\SportsPro\\SportsPro.csproj",
         "packagesPath": "J:\\NuGet",
-        "outputPath": "J:\\2839-code-examples\\SportsPro\\SportsPro\\obj\\",
+        "outputPath": "j:\\2839-code-examples\\SportsPro\\SportsPro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vernon.james\\AppData\\Roaming\\NuGet\\NuGet.Config",

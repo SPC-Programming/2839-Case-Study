@@ -1,0 +1,29 @@
+@model SportsPro.Models.ProductsList;
+
+@{
+    ViewData["Title"] = "Products List";
+}
+<table class="table table-striped">
+    <tr>
+        <th colspan="5">
+            <h3>Products</h3>
+        </th>
+    </tr>
+    <tr>
+        <th>Product Id</th>
+        <th>Product Code</th>
+        <th>Product Name</th>
+        <th>Yearly price</th>
+        <th>Release Date</th>
+    </tr>
+    @foreach (Product p in @Model.ProductList)
+    {
+        <tr>
+            <td>@p.ProductID</td>
+            <td>@p.ProductCode</td>
+            <td>@p.Name</td>
+            <td>@p.YearlyPrice</td>
+            <td>@p.ReleaseDate</td>
+        </tr>
+    }
+</table>
