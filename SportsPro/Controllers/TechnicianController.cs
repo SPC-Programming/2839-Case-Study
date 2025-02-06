@@ -9,22 +9,22 @@ using SportsPro.Models;
 
 namespace SportsPro._Controllers
 {
-    public class ProductController : Controller
+    public class TechnicianController : Controller
     {
         private readonly SportsProContext _context;
 
-        public ProductController(SportsProContext context)
+        public TechnicianController(SportsProContext context)
         {
             _context = context;
         }
 
-        // GET: Product
+        // GET: Technician
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Products.ToListAsync());
+            return View(await _context.Technicians.ToListAsync());
         }
 
-        // GET: Product/Details/5
+        // GET: Technician/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -32,39 +32,39 @@ namespace SportsPro._Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .FirstOrDefaultAsync(m => m.ProductID == id);
-            if (product == null)
+            var technician = await _context.Technicians
+                .FirstOrDefaultAsync(m => m.TechnicianID == id);
+            if (technician == null)
             {
                 return NotFound();
             }
 
-            return View(product);
+            return View(technician);
         }
 
-        // GET: Product/Create
+        // GET: Technician/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Product/Create
+        // POST: Technician/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductID,ProductCode,Name,YearlyPrice,ReleaseDate")] Product product)
+        public async Task<IActionResult> Create([Bind("TechnicianID,Name,Email,Phone")] Technician technician)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(product);
+                _context.Add(technician);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(product);
+            return View(technician);
         }
 
-        // GET: Product/Edit/5
+        // GET: Technician/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -72,22 +72,22 @@ namespace SportsPro._Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
+            var technician = await _context.Technicians.FindAsync(id);
+            if (technician == null)
             {
                 return NotFound();
             }
-            return View(product);
+            return View(technician);
         }
 
-        // POST: Product/Edit/5
+        // POST: Technician/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ProductID,ProductCode,Name,YearlyPrice,ReleaseDate")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("TechnicianID,Name,Email,Phone")] Technician technician)
         {
-            if (id != product.ProductID)
+            if (id != technician.TechnicianID)
             {
                 return NotFound();
             }
@@ -96,12 +96,12 @@ namespace SportsPro._Controllers
             {
                 try
                 {
-                    _context.Update(product);
+                    _context.Update(technician);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ProductExists(product.ProductID))
+                    if (!TechnicianExists(technician.TechnicianID))
                     {
                         return NotFound();
                     }
@@ -112,10 +112,10 @@ namespace SportsPro._Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(product);
+            return View(technician);
         }
 
-        // GET: Product/Delete/5
+        // GET: Technician/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,41 +123,34 @@ namespace SportsPro._Controllers
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .FirstOrDefaultAsync(m => m.ProductID == id);
-            if (product == null)
+            var technician = await _context.Technicians
+                .FirstOrDefaultAsync(m => m.TechnicianID == id);
+            if (technician == null)
             {
                 return NotFound();
             }
 
-            return View(product);
+            return View(technician);
         }
 
-        // POST: Product/Delete/5
+        // POST: Technician/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var product = await _context.Products.FindAsync(id);
-            if (product != null)
+            var technician = await _context.Technicians.FindAsync(id);
+            if (technician != null)
             {
-                _context.Products.Remove(product);
+                _context.Technicians.Remove(technician);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        //list 
-        public async Task<IActionResult> List(){
-            var products = await _context.Products.ToListAsync();
-            return View(products);
-        }
-        
-
-        private bool ProductExists(int id)
+        private bool TechnicianExists(int id)
         {
-            return _context.Products.Any(e => e.ProductID == id);
+            return _context.Technicians.Any(e => e.TechnicianID == id);
         }
     }
 }

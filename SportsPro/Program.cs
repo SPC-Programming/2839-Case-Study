@@ -14,7 +14,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<SportsProContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("SportsPro")));
 
+//add services above
 var app = builder.Build();
+//config services below 
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

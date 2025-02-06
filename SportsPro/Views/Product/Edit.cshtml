@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>ProductEdit</title>
+    <title>Edit</title>
 </head>
 <body>
 
@@ -17,13 +17,9 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="ProductEdit">
+        <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="ProductID" class="control-label"></label>
-                <input asp-for="ProductID" class="form-control" />
-                <span asp-validation-for="ProductID" class="text-danger"></span>
-            </div>
+            <input type="hidden" asp-for="ProductID" />
             <div class="form-group">
                 <label asp-for="ProductCode" class="control-label"></label>
                 <input asp-for="ProductCode" class="form-control" />
