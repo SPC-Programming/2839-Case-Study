@@ -147,6 +147,10 @@ namespace SportsPro
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+         public async Task<IActionResult> List(){
+            var countries = await _context.Countries.ToListAsync();
+            return View(countries);
+        }
 
         private bool CountryExists(string id)
         {

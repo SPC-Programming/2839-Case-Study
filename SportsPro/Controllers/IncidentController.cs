@@ -166,6 +166,10 @@ namespace SportsPro._Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+         public async Task<IActionResult> List(){
+            var incidents = await _context.Incidents.ToListAsync();
+            return View(incidents);
+        }
 
         private bool IncidentExists(int id)
         {
