@@ -43,6 +43,8 @@ namespace SportsPro._Controllers
         }
 
         // GET: Product/Create
+        [HttpGet]
+        [Route("/Product/create-new/")]
         public IActionResult Create()
         {
             return View();
@@ -65,7 +67,8 @@ namespace SportsPro._Controllers
         }
 
         // GET: Product/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        [Route("/Product/Edit/{name?}/changes")]
+        public async Task<IActionResult> Edit(int? id, string? name)
         {
             if (id == null)
             {
@@ -85,6 +88,7 @@ namespace SportsPro._Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Route("/Product/Edit/{name?}/changes-made/")]
         public async Task<IActionResult> Edit(int id, [Bind("ProductID,ProductCode,Name,YearlyPrice,ReleaseDate")] Product product)
         {
             if (id != product.ProductID)
@@ -149,6 +153,7 @@ namespace SportsPro._Controllers
         }
 
         //list 
+        [Route("/Product/all-products/")]
         public async Task<IActionResult> List(){
             var products = await _context.Products.ToListAsync();
             return View(products);
